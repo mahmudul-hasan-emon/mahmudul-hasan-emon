@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mahmudul Hasan Emon</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
-<img align="right" alt="Coding" width="400" src="https://devtechnosys.com/insights/wp-content/uploads/2022/09/Front-End-Developers.gif">
+<h3 align="center">Currently studying in last semester of Computer Science and Engineering at BRAC University.</h3>
+<img align="right" alt="Coding" width="300" src="https://devtechnosys.com/insights/wp-content/uploads/2022/09/Front-End-Developers.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmudul-hasan-emon&label=Profile%20views&color=0e75b6&style=flat" alt="mahmudul-hasan-emon" /> </p>
 
