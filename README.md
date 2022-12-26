@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Laravel**
 
-- 👨‍💻 All of my projects are available at [https://sites.google.com/d/17fHoTK_qA8kWuJPcmWHOYlm6jRf3hUmM/p/1CD1gvqmuW4NHMrNVM9Ls3WVxjLLRyJy3/edit?pli=1&authuser=1](https://cutt.ly/B027IKE)
+- 👨‍💻 All of my projects are available at [https://cutt.ly/B027IKE]
 
 - 📫 How to reach me **mahasanemon2014@gmail.com**
 
