@@ -10,14 +10,14 @@
 
 - 👨‍💻 All of my projects are available at https://cutt.ly/B027IKE
 
-- 📫 How to reach me **mahasanemon2014@gmail.com**
+- 📫 How to reach me **mahasanemon2014@gmail.com** **mahmudul.hasan.emon@g.bracu.ac.bd**
 
 - ⚡ Fun fact **I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/https://twitter.com/mhemon01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/mhemon01" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/@mahmudulhasanemon316/featured" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucfmw0aysursnt64a8vztxbw" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://cutt.ly/m026yUO" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://cutt.ly/m026yUO" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
