@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at https://cutt.ly/B027IKE
 
-- 📫 How to reach me **mahasanemon2014@gmail.com** **mahmudul.hasan.emon@g.bracu.ac.bd**
+- 📫 How to reach me **mahasanemon2014@gmail.com**,**mahmudul.hasan.emon@g.bracu.ac.bd**
 
 - ⚡ Fun fact **I think I am funny**
 
